@@ -1,5 +1,5 @@
 # english-app
 
-react
-typescript
+react  
+typescript  
 google script
