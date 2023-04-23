@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import { Container, InputAdornment, TextField } from "@mui/material";
 import { useState } from "react";
